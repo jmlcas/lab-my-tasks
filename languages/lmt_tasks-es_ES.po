@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Lab My tasks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-08 12:58+0200\n"
+"PO-Revision-Date: 2020-01-13 09:21+0000\n"
+"Last-Translator: labarta <labarta31@gmail.com>\n"
+"Language-Team: Español\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Description of the plugin
+msgid "This plugin create a Custom Post Type \"My tasks\" with a metabox."
+msgstr "Este plugin crea un Custom Post Type \"Mis tareas\" con un metabox."
+
+#: lab-my-tasks.php:45
+msgid "Tasks"
+msgstr "Tareas"
+
+#: lab-my-tasks.php:46
+msgid "Task"
+msgstr "Tarea"
+
+#: lab-my-tasks.php:47
+msgid "My Tasks"
+msgstr "Mis tareas"
+
+#: lab-my-tasks.php:48
+msgid "Add new"
+msgstr "Añadir nueva"
+
+#: lab-my-tasks.php:49
+msgid "Add_new_task"
+msgstr "Añadir nueva tarea"
+
+#: lab-my-tasks.php:50
+msgid "Edit task"
+msgstr "Editar tarea"
+
+#: lab-my-tasks.php:51
+msgid "New task"
+msgstr "Nueva tarea"
+
+#: lab-my-tasks.php:52
+msgid "View task"
+msgstr "Ver tarea"
+
+#: lab-my-tasks.php:53
+msgid "Search tasks"
+msgstr "Buscar tareas"
+
+#: lab-my-tasks.php:54
+msgid "Not found"
+msgstr "No encontrado"
+
+#: lab-my-tasks.php:55
+msgid "Not found in trash"
+msgstr "No hay nada en la papelera"
+
+#: includes/lab-editor.php:14
+msgid "WP Editor"
+msgstr "Editor WP"
+
+#: includes/lab-metabox-p.php:15
+msgctxt "meta description"
+msgid "Today"
+msgstr "Hoy"
+
+#: includes/lab-metabox-p.php:25
+msgctxt "meta description"
+msgid "This week"
+msgstr "Esta semana"
+
+#: includes/lab-metabox-p.php:35
+msgctxt "meta description"
+msgid "This month"
+msgstr "Este mes"
+
+#: includes/lab-metabox-p.php:45
+msgctxt "meta description"
+msgid "This year"
+msgstr "Este año"
+
+#: includes/lab-metabox-p.php:67
+msgid "My tasks"
+msgstr "Mis tareas"
+
+#: includes/lab-metabox-p.php:79
+msgid "Today"
+msgstr "Hoy"
+
+#: includes/lab-metabox-p.php:80
+msgid "This week"
+msgstr "Esta semana"
+
+#: includes/lab-metabox-p.php:81
+msgid "This month"
+msgstr "Este mes"
+
+#: includes/lab-metabox-p.php:82
+msgid "This year"
+msgstr "Este año"
+
+#: includes/lab-metabox-p.php:90
+msgid "Today:"
+msgstr "Hoy:"
+
+#: includes/lab-metabox-p.php:95
+msgid "This week:"
+msgstr "Esta semana:"
+
+#: includes/lab-metabox-p.php:100
+msgid "This month:"
+msgstr "Este mes:"
+
+#: includes/lab-metabox-p.php:105
+msgid "This year:"
+msgstr "Este año:"

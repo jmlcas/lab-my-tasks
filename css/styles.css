@@ -1,0 +1,96 @@
+/* Tabs */
+
+.tabs-navigation {
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.box {
+  	background: #fff;
+  	border-radius:2px;
+  	box-shadow: 1px 3px 4px #ddd;
+
+}
+.box .tabs-links {
+  	width: 100%;
+  	padding: 0px;
+	font-size: 16px;
+	font-style: italic;
+  	position: relative;
+  	display: flex;
+  	flex-flow: row wrap;
+}
+
+.box .tabs-links a {
+  	padding: 10px;
+  	border: solid 1px #eee;
+  	color: #333;
+  	text-align: center;
+  	text-decoration: none;
+  	cursor: pointer;
+  	flex-basis: 0;
+  	flex-grow: 1;
+}
+.tabs-links a:visited{ 
+	color: inherit; 
+}
+
+.tabs {
+  	position: relative;
+  	overflow: hidden;
+}
+
+.tabs .wrap {
+  	white-space: nowrap;
+  	left: 0px;
+  	position: relative;
+  	transition: all 0.5s;
+}
+
+.tabs .wrap * {
+	white-space: normal;
+}
+
+.indicator {
+  	position: absolute;
+}
+
+.tab { 
+  	display: inline-block;
+  	width: 100%;
+  	padding: 30px;
+  	box-sizing: border-box;
+  	vertical-align: top;
+}
+
+.tab h1 {
+	margin-top: 0;
+}
+
+.tab p:last-child {
+	margin-bottom: 0;
+}
+
+.label1, .textabs1  {
+    margin-left: 5px;
+	width: 100%;
+}
+
+.label2, .textabs2  {
+    margin-left: 23px;
+	width: 100%;
+}
+
+.label3, .textabs3  {
+    margin-left: 43px;
+	width: 100%;
+}
+
+.label4, .textabs4  {
+    margin-left: 60px;
+	width: 100%;
+}
+.label1,.label2, .label3, .label4 {
+    font-weight: bold;
+    font-size: 16px;
+}
