@@ -67,7 +67,7 @@ load_plugin_textdomain( 'lmt_tasks', false, dirname( plugin_basename( __FILE__ )
 		 'exclude_from_search'   => false,
 		 'publicly_queryable'    => true, 
 		 'capability_type'       => 'page',	
-		 'show_in_rest'          => true, 
+		 'show_in_rest'          => false, 
          'supports'=>array('title', 'thumbnail', 'editor'),   
        ) 
 	 );
